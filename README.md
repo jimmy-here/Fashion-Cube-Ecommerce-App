@@ -25,9 +25,9 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
 # ScreenShot
 
-<img src="screen/screen1.png">
-<img src="screen/screen2.png">
-<img src="screen/screen3.png">
-<img src="screen/screen4.png">
-<img src="screen/screen5.png">
-<img src="screen/screen6.png">
+<img src="screen1.png">
+<img src="screen2.png">
+<img src="screen3.png">
+<img src="screen4.png">
+<img src="screen5.png">
+<img src="screen6.png">
